@@ -7,3 +7,5 @@ The system is designed to provide basic security and file management functionali
 This project demonstrates concepts of web development, file handling, database management, and secure data sharing. It is useful in situations where users need to share documents, images, or other files efficiently.
 
 The File Sharing System is developed using Python Flask for backend processing, HTML and CSS for the user interface, and SQLite for database management.
+
+# Pranjal Verma
