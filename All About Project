@@ -1,0 +1,51 @@
+# Secure File Sharing System
+
+A simple web-based secure file sharing application built using Flask.
+
+## Features
+
+- Upload files securely
+- Generate unique download link
+- Share files with others
+- File stored on server
+- Lightweight and simple UI
+
+## Technologies Used
+
+- Python
+- Flask
+- HTML
+- CSS
+- SQLite
+
+## Installation
+
+1. Clone the repository
+
+git clone https://github.com/yourusername/file-sharing-system.git
+
+2. Install dependencies
+
+pip install flask
+
+3. Run the application
+
+python app.py
+
+4. Open browser
+
+http://127.0.0.1:5000
+
+## Project Structure
+
+app.py - Backend logic  
+templates/ - HTML files  
+uploads/ - Uploaded files  
+database.db - Database  
+
+## Future Improvements
+
+- User authentication
+- File encryption
+- Expiring download links
+- Cloud storage integration
