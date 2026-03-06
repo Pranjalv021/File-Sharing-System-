@@ -1,0 +1,15 @@
+file-sharing-system
+│
+├── app.py
+├── database.db
+├── uploads/
+│
+├── templates
+│   ├── index.html
+│   ├── upload.html
+│   └── files.html
+│
+├── static
+│   └── style.css
+│
+└── README.md
